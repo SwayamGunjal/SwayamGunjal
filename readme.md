@@ -122,22 +122,6 @@ I'm **Swayam Gunjal** — a developer who believes the strongest apps are built 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SwayamGunjal&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  FEATURED PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -145,26 +129,14 @@ I'm **Swayam Gunjal** — a developer who believes the strongest apps are built 
 
 <div align="center">
 
-<a href="https://github.com/SwayamGunjal/demo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SwayamGunjal&repo=demo&theme=radical&bg_color=0d0d0d&title_color=FF0080&icon_color=0070F3&text_color=ffffff&border_color=7928CA" width="45%"/>
-</a>
-<a href="https://github.com/SwayamGunjal/MyCalc">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SwayamGunjal&repo=MyCalc&theme=radical&bg_color=0d0d0d&title_color=FF0080&icon_color=0070F3&text_color=ffffff&border_color=7928CA" width="45%"/>
-</a>
-
-<a href="https://github.com/SwayamGunjal/C_Programming">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SwayamGunjal&repo=C_Programming&theme=radical&bg_color=0d0d0d&title_color=FF0080&icon_color=0070F3&text_color=ffffff&border_color=7928CA" width="45%"/>
-</a>
-<a href="https://github.com/SwayamGunjal/Java_programming">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SwayamGunjal&repo=Java_programming&theme=radical&bg_color=0d0d0d&title_color=FF0080&icon_color=0070F3&text_color=ffffff&border_color=7928CA" width="45%"/>
-</a>
-
-<a href="https://github.com/SwayamGunjal/CPP_Programming">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SwayamGunjal&repo=CPP_Programming&theme=radical&bg_color=0d0d0d&title_color=FF0080&icon_color=0070F3&text_color=ffffff&border_color=7928CA" width="45%"/>
-</a>
-<a href="https://github.com/SwayamGunjal/Python_programming">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SwayamGunjal&repo=Python_programming&theme=radical&bg_color=0d0d0d&title_color=FF0080&icon_color=0070F3&text_color=ffffff&border_color=7928CA" width="45%"/>
-</a>
+| Project | Language | Description |
+|---|:---:|---|
+| [**demo**](https://github.com/SwayamGunjal/demo) | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | — |
+| [**MyCalc**](https://github.com/SwayamGunjal/MyCalc) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | — |
+| [**C_Programming**](https://github.com/SwayamGunjal/C_Programming) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) | Core concepts & problem-solving |
+| [**Java_programming**](https://github.com/SwayamGunjal/Java_programming) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Core concepts & problem-solving |
+| [**CPP_Programming**](https://github.com/SwayamGunjal/CPP_Programming) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Learning and practice |
+| [**Python_programming**](https://github.com/SwayamGunjal/Python_programming) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Learning and practice |
 
 </div>
 
